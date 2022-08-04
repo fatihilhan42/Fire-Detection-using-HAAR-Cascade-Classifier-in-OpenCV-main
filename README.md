@@ -1,5 +1,5 @@
 
-# # Fire-Detection-using-HAAR-Cascade-Classifier-in-OpenCV
+ # Fire-Detection-using-HAAR-Cascade-Classifier-in-OpenCV
 It is the Fire detection project with Arduino of our Computer Vision work with Opencv. In this project, when fire detection was detected using Opencv intelligence libraries, the LED on the Arduino burned, the detection text was printed on the buzzer and LCD screen. I tried to explain the details of the project step by step below.
 
 
